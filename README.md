@@ -25,8 +25,11 @@ Person Shell
 Examples
 
 add-person Conor McKernan
+
 add-person Donald McKernan
+
 add-person Billy McKernan
+
 add-person Chunk McKernan
 
 Address Shell
@@ -37,9 +40,13 @@ Address Shell
 
 
 add-address 1 "Fake Street" "New Jersey" Kentucky 32FDS
+
 add-address 2 "Fake Land" New Jersey" Ireland 32FDS
+
 add-address 4 "Fake Street" "Cork" Ireland 32FDS
+
 add-address 3 "Fake Street" "Dublin" Ireland 32FDS
+
 add-address 1 "Fake Street" "Paris" Kentucky 32FDS
 
 edit-address --id 1 --street "Fake Ville" --city "New Jersey" --state Kentucky --postal-code 32FDS
