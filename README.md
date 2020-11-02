@@ -60,3 +60,6 @@ add-address 1 "Fake Street" "Paris" Kentucky 32FDS
 
 edit-address --id 1 --street "Fake Ville" --city "New Jersey" --state Kentucky --postal-code 32FDS
 
+#Test
+
+Didn't have time to write test. 
