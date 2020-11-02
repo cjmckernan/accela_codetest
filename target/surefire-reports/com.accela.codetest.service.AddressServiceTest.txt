@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.accela.codetest.service.AddressServiceTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 2.306 s <<< FAILURE! - in com.accela.codetest.service.AddressServiceTest
+testEditAddress  Time elapsed: 0.17 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.accela.codetest.service.AddressServiceTest.testEditAddress(AddressServiceTest.java:59)
+

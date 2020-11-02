@@ -1,0 +1,10 @@
+com/accela/codetest/repository/AddressRepository.class
+com/accela/codetest/service/PersonService.class
+com/accela/codetest/service/ConsoleService.class
+com/accela/codetest/model/Address.class
+com/accela/codetest/service/AddressService.class
+com/accela/codetest/model/Person.class
+com/accela/codetest/repository/PersonRepository.class
+com/accela/codetest/CodetestApplication.class
+com/accela/codetest/shell/AddressShell.class
+com/accela/codetest/shell/PersonShell.class
