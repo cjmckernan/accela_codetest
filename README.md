@@ -17,9 +17,13 @@
 #Commands Examples 
 
 Person Shell
+
         add-person: Add a person to the database
+        
         delete-person: Delete a person from the database
+        
         edit-person: Edit an existing person in the database
+        
         list-people: List all people in the database
 
 Examples
@@ -33,9 +37,13 @@ add-person Billy McKernan
 add-person Chunk McKernan
 
 Address Shell
+
         add-address: Add an address to person in the database
+        
         delete-address: Delete an address from the database
+        
         edit-address: Edit an existing address in the database
+        
         list-addresses: List all addresses in the database
 
 
