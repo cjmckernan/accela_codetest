@@ -1,20 +1,21 @@
-#Running 
-  #IDE
+##Running 
+
+  ##IDE
   To run the project import into IDE e.g Eclipse and then just run the main class CodetestApplication.java as a Java Application 
   
-  #CLI - Maven 
+  ##CLI - Maven 
   Alternatively you can run it via maven using the command 
   
   mvn spring-boot:run
   
  
- #Using Tool 
+ ##Using Tool 
  
  Once you run the tool it will launch into a shell where you can add People / Addresses 
  examples can be seen below. 
  You can type help and it will list the available commands below. 
  
-#Commands Examples 
+##Commands Examples 
 
 Person Shell
 
